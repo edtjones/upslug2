@@ -1,9 +1,9 @@
 require 'formula'
 
 class Upslug2 < Formula
-  homepage 'https://github.com/carlesso/upslug2'
+  homepage 'https://github.com/edtjones/upslug2'
 
-  url 'https://github.com/carlesso/upslug2.git', :revision => 'e3d1163d130e588f91c863b2719018cab7470e38'
+  url 'https://github.com/edtjones/upslug2.git', :revision => 'e3d1163d130e588f91c863b2719018cab7470e38'
 
   head 'https://github.com/wspringer/upslug2.git'
   version '2.11'
